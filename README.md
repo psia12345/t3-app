@@ -4,9 +4,14 @@ This is a demo app. Testing out T3 stack
 
 ## Useful scripts
 
-`npm run dev` to start dev environment
+`npm run dev` to start dev environment on `localhost:3000`
 `npx prisma studio` to start Prisma to browse data
 `npx prisma db push` to push the state from Prisma schema to the database during prototyping
+
+## Tools used
+
+- planetscale for mysqlDB
+- clerk for auth
 
 ---
 
